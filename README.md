@@ -5,6 +5,7 @@ I specialize in data analytics, machine learning, deep learning, and databases. 
 ### My skills
 [![My skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,anaconda,ai,postgres)](https://skillicons.dev)
 
+- 🗂 Check out my projects!
 - 📫 Reach out to me: ve.golanova@gmail.com
 
 
